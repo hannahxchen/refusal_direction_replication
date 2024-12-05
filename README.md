@@ -57,7 +57,7 @@ Further analysis and results can be found in `analysis/magnitude_evaluation.ipyn
 
 
 ### References
-- [Refusal in language models is mediated by a single direction]((https://arxiv.org/abs/2406.11717)). (Arditi et al., 2024) [[Github repo](https://github.com/andyrdt/refusal_direction)]
+- [Refusal in language models is mediated by a single direction](https://arxiv.org/abs/2406.11717). (Arditi et al., 2024) [[Github repo](https://github.com/andyrdt/refusal_direction)]
 - NNsight library: https://nnsight.net/
 - [XSTest: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models](https://aclanthology.org/2024.naacl-long.301) (Röttger et al., NAACL 2024) [[GitHub repo](https://github.com/paul-rottger/exaggerated-safety)]
 
