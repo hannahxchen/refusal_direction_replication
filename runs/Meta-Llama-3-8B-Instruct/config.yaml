@@ -1,0 +1,21 @@
+batch-size: 32
+ce-loss-batch-size: 2
+ce-loss-n-batches: 2048
+evaluation-datasets:
+- jailbreakbench
+- harmbench_test
+filter-train: true
+filter-val: true
+generation-batch-size: 24
+jailbreak-eval-methodologies:
+- substring_matching
+- llamaguard2
+max-new-tokens: 512
+model-alias: Meta-Llama-3-8B-Instruct
+model-path: meta-llama/Meta-Llama-3-8B-Instruct
+n-test: 100
+n-train: 128
+n-val: 32
+refusal-eval-methodologies:
+- substring_matching
+save-dir: runs

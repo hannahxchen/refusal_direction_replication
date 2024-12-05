@@ -1,0 +1,22 @@
+{
+    "harmful": {
+        "train": {
+            "original": 128,
+            "filtered": 117
+        },
+        "val": {
+            "original": 32,
+            "filtered": 23
+        }
+    },
+    "harmless": {
+        "train": {
+            "original": 128,
+            "filtered": 122
+        },
+        "val": {
+            "original": 32,
+            "filtered": 32
+        }
+    }
+}

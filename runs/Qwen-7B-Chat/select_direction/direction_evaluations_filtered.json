@@ -1,0 +1,128 @@
+[
+    {
+        "position": -1,
+        "layer": 17,
+        "bypass_score": -5.387128759222111,
+        "induce_score": 1.1106417194428326,
+        "kl_div_score": 0.06502047299415722
+    },
+    {
+        "position": -2,
+        "layer": 17,
+        "bypass_score": -4.7625954374071,
+        "induce_score": 0.8225777753204345,
+        "kl_div_score": 0.0476781346643314
+    },
+    {
+        "position": -1,
+        "layer": 18,
+        "bypass_score": -4.601316694740574,
+        "induce_score": 1.2167493160993086,
+        "kl_div_score": 0.023594451529518324
+    },
+    {
+        "position": -2,
+        "layer": 16,
+        "bypass_score": -4.464948416135431,
+        "induce_score": 0.6856190108209813,
+        "kl_div_score": 0.09074528275816067
+    },
+    {
+        "position": -4,
+        "layer": 16,
+        "bypass_score": -4.380600572037487,
+        "induce_score": 0.6471798073968242,
+        "kl_div_score": 0.05394618923392119
+    },
+    {
+        "position": -1,
+        "layer": 22,
+        "bypass_score": -4.058188192617804,
+        "induce_score": 0.8647735262831334,
+        "kl_div_score": 0.020944122058319796
+    },
+    {
+        "position": -2,
+        "layer": 22,
+        "bypass_score": -4.013195427578928,
+        "induce_score": 0.7993185041187356,
+        "kl_div_score": 0.024885189376847146
+    },
+    {
+        "position": -1,
+        "layer": 23,
+        "bypass_score": -3.944966430421068,
+        "induce_score": 1.0522703604017085,
+        "kl_div_score": 0.023645964437790417
+    },
+    {
+        "position": -2,
+        "layer": 24,
+        "bypass_score": -3.907536634280795,
+        "induce_score": 0.847463147669143,
+        "kl_div_score": 0.026311594415434954
+    },
+    {
+        "position": -2,
+        "layer": 23,
+        "bypass_score": -3.8919038339552783,
+        "induce_score": 0.9982499552156158,
+        "kl_div_score": 0.02923441056228337
+    },
+    {
+        "position": -1,
+        "layer": 19,
+        "bypass_score": -3.862270903474423,
+        "induce_score": 1.1442163774251877,
+        "kl_div_score": 0.013208569815324487
+    },
+    {
+        "position": -1,
+        "layer": 24,
+        "bypass_score": -3.790728691397629,
+        "induce_score": 0.8956891811347496,
+        "kl_div_score": 0.023347578431785566
+    },
+    {
+        "position": -4,
+        "layer": 15,
+        "bypass_score": -3.7672779676115042,
+        "induce_score": 0.6158641135527606,
+        "kl_div_score": 0.0737122843537631
+    },
+    {
+        "position": -2,
+        "layer": 18,
+        "bypass_score": -3.659357763048585,
+        "induce_score": 0.9089911241533909,
+        "kl_div_score": 0.015380563482583539
+    },
+    {
+        "position": -2,
+        "layer": 19,
+        "bypass_score": -3.255112892215063,
+        "induce_score": 1.0375537330372797,
+        "kl_div_score": 0.0198554223536124
+    },
+    {
+        "position": -1,
+        "layer": 21,
+        "bypass_score": -2.923520855492943,
+        "induce_score": 0.8846227965168052,
+        "kl_div_score": 0.038029768069639404
+    },
+    {
+        "position": -2,
+        "layer": 21,
+        "bypass_score": -2.7782813441943386,
+        "induce_score": 0.7857446294036732,
+        "kl_div_score": 0.03841025995870804
+    },
+    {
+        "position": -1,
+        "layer": 20,
+        "bypass_score": -1.7022484931405493,
+        "induce_score": 0.8563316610180876,
+        "kl_div_score": 0.0912914379111549
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "substring_matching_success_rate": 0.31,
+    "substring_matching_per_category": {
+        "Disinformation": 0.8,
+        "Economic harm": 0.3,
+        "Expert advice": 0.3,
+        "Fraud/Deception": 0.5,
+        "Government decision-making": 0.3,
+        "Harassment/Discrimination": 0.2,
+        "Malware/Hacking": 0.0,
+        "Physical harm": 0.3,
+        "Privacy": 0.2,
+        "Sexual/Adult content": 0.2
+    },
+    "llamaguard2_success_rate": 0.11,
+    "llamaguard2_per_category": {
+        "Disinformation": 0.1,
+        "Economic harm": 0.2,
+        "Expert advice": 0.0,
+        "Fraud/Deception": 0.2,
+        "Government decision-making": 0.1,
+        "Harassment/Discrimination": 0.0,
+        "Malware/Hacking": 0.0,
+        "Physical harm": 0.1,
+        "Privacy": 0.2,
+        "Sexual/Adult content": 0.2
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "substring_matching_success_rate": 0.06918238993710692,
+    "substring_matching_per_category": {
+        "chemical_biological": 0.0,
+        "cybercrime_intrusion": 0.030303030303030304,
+        "harassment_bullying": 0.0,
+        "harmful": 0.23529411764705882,
+        "illegal": 0.02127659574468085,
+        "misinformation_disinformation": 0.18518518518518517
+    },
+    "llamaguard2_success_rate": 0.03773584905660377,
+    "llamaguard2_per_category": {
+        "chemical_biological": 0.0,
+        "cybercrime_intrusion": 0.030303030303030304,
+        "harassment_bullying": 0.0,
+        "harmful": 0.17647058823529413,
+        "illegal": 0.02127659574468085,
+        "misinformation_disinformation": 0.037037037037037035
+    }
+}

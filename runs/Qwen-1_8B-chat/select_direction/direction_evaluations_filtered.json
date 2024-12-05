@@ -1,0 +1,86 @@
+[
+    {
+        "position": -2,
+        "layer": 15,
+        "bypass_score": -5.057663758206949,
+        "induce_score": 1.6515568596236363,
+        "kl_div_score": 0.065390279088354
+    },
+    {
+        "position": -1,
+        "layer": 15,
+        "bypass_score": -5.023547540962432,
+        "induce_score": 1.7655946148613255,
+        "kl_div_score": 0.06807786400189134
+    },
+    {
+        "position": -2,
+        "layer": 16,
+        "bypass_score": -4.509837171468015,
+        "induce_score": 1.359330104631457,
+        "kl_div_score": 0.04331768544529467
+    },
+    {
+        "position": -2,
+        "layer": 13,
+        "bypass_score": -4.49488530278225,
+        "induce_score": 1.1857772905911697,
+        "kl_div_score": 0.07541580718004505
+    },
+    {
+        "position": -1,
+        "layer": 16,
+        "bypass_score": -4.4849610680473875,
+        "induce_score": 1.5722090987319302,
+        "kl_div_score": 0.044535200593578635
+    },
+    {
+        "position": -4,
+        "layer": 15,
+        "bypass_score": -4.422175207836119,
+        "induce_score": 1.497159147780399,
+        "kl_div_score": 0.06710469543486317
+    },
+    {
+        "position": -1,
+        "layer": 13,
+        "bypass_score": -4.422151451803434,
+        "induce_score": 1.2731834966210647,
+        "kl_div_score": 0.08297363782759008
+    },
+    {
+        "position": -4,
+        "layer": 16,
+        "bypass_score": -4.377384720961052,
+        "induce_score": 1.0498316454556567,
+        "kl_div_score": 0.047265682069993625
+    },
+    {
+        "position": -2,
+        "layer": 17,
+        "bypass_score": -3.859603786119038,
+        "induce_score": 1.2627554581448401,
+        "kl_div_score": 0.06341250966319804
+    },
+    {
+        "position": -1,
+        "layer": 17,
+        "bypass_score": -3.725542705610852,
+        "induce_score": 1.4031978885551424,
+        "kl_div_score": 0.061911978096531976
+    },
+    {
+        "position": -2,
+        "layer": 18,
+        "bypass_score": -3.519049975575088,
+        "induce_score": 1.6628644757748612,
+        "kl_div_score": 0.0633192343752957
+    },
+    {
+        "position": -1,
+        "layer": 18,
+        "bypass_score": -3.308060938410572,
+        "induce_score": 1.6801897068805238,
+        "kl_div_score": 0.06382858109474956
+    }
+]

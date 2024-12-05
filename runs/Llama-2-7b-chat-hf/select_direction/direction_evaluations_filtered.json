@@ -1,0 +1,16 @@
+[
+    {
+        "position": -2,
+        "layer": 14,
+        "bypass_score": -4.021242517115544,
+        "induce_score": 5.86789663318877,
+        "kl_div_score": 0.08701611531400803
+    },
+    {
+        "position": -4,
+        "layer": 16,
+        "bypass_score": -3.126442146340639,
+        "induce_score": 2.7699516211547985,
+        "kl_div_score": 0.09547591079825893
+    }
+]
